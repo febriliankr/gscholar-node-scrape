@@ -16,5 +16,8 @@
     "google-scholar": "^1.5.1",
     "google-scholarly": "^1.3.0",
     "scholarly": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
